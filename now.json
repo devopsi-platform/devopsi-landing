@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "devopsi",
+  "public": false,
+  "alias": ["www.devopsi.dev", "devopsi.dev"],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ]
+}

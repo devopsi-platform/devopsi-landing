@@ -1,0 +1,17 @@
+body {
+  background-color: #222;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Avenir Next', Avenir, Helvetica, sans-serif;
+
+  a {
+    color: inherit;
+  }
+
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }
+}

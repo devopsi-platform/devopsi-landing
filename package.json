@@ -22,7 +22,7 @@
     "color": "^3.1.2",
     "firebase": "^7.0.0",
     "framer-motion": "^1.6.7",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.4.1",
     "immer": "^4.0.0",
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",

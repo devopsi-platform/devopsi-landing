@@ -23,7 +23,7 @@
     "firebase": "^7.0.0",
     "framer-motion": "^1.6.7",
     "highlight.js": "^9.15.10",
-    "immer": "^4.0.0",
+    "immer": "^9.0.6",
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",
     "outdent": "^0.7.0",
